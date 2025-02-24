@@ -44,21 +44,11 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 # Alternatively, use `google-scholar` icon from `ai` icon pack
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:simon.gravelle@live.fr
   - icon: github
     icon_pack: fab
-    link: https://github.com/simongravelle
+    link: https://github.com/madhubantimukherjee
     display:
       header: true
-  - icon: mastodon
-    icon_pack: fab
-    link: https://mastodon.social/@simongravelle
-    label: Follow me on Mastodon
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=9fD2JlYAAAAJ&hl
   - icon: cv
     icon_pack: ai
     link: files/resume/resume-simon-gravelle.pdf
@@ -70,8 +60,8 @@ highlight_name: true # Highlight the author in author lists? (true/false)
 
 I am a computational materials scientist with a background in physics
 
-<a href="https://github.com/simongravelle" target="_blank" style="float: right">
-  <img src="https://raw.githubusercontent.com/simongravelle/simongravelle.github.io/refs/heads/main/static/img/water-in-polymer.png" alt="Water in polymer - molecular dynamics" width="200">
+<a href="https://github.com/madhubantimukherjee" target="_blank" style="float: right">
+  <img src="https://raw.githubusercontent.com/madhubantimukherjee/madhubantimukherjee.github.io/refs/heads/main/static/img/water-in-polymer.png" alt="Water in polymer - molecular dynamics" width="200">
 </a>
 
 <span style="display: block; height: 8px;"></span>
