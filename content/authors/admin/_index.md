@@ -3,8 +3,8 @@
 title: Madhubanti Mukherjee
 
 # Full name (for SEO)
-first_name: Simon
-last_name: Gravelle
+first_name: Madhubanti
+last_name: Mukherjee
 
 # Status emoji
 status:
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: CNRS research scientist
+role: EPFL LCBC Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
