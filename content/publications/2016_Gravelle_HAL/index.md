@@ -4,7 +4,7 @@ Nanofluidics: a pedagogical introduction
 "
 date: 2016-03-01
 publishDate: 2016-03-01
-authors: ["**Simon Gravelle**"]
+authors: ["**Madhubanti Mukherjee**"]
 publication_types: ["7"]
 abstract: "Nanofluidics is the study of fluids confined in structures of nanometric
 dimensions (typically 1 − 100 nm). Fluids confined in these structures exhibit behaviours that are not observed in larger structures, due to a high

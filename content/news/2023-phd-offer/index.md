@@ -47,14 +47,14 @@ programming and a background in statistical mechanics (including if possible Mon
 Molecular Dynamics).
 
 **Practical aspects.** The position is available starting January 2024 and lasts for 36 months. The PhD student
-will work under the supervision of Benoit Coasne/Simon Gravelle (LIPhy, Grenoble) and Yann Magnin
+will work under the supervision of Benoit Coasne/Madhubanti Mukherjee (LIPhy, Grenoble) and Yann Magnin
 (CSTJF, Pau). He/she will be located at LIPhy in Grenoble, France but several short stays in CSTJF in
 Pau, France will be planned. Applicants should provide a CV, a letter of motivation and the names and
 email addresses of 2 or 3 references to:
 
 - Yann Magnin (yann.magnin at totalenergies.com)
 - Benoit Coasne (benoit.coasne at univ-grenoble-alpes.fr)
-- Simon Gravelle (simon.gravelle at univ-grenoble-alpes.fr)
+- Madhubanti Mukherjee (simon.gravelle at univ-grenoble-alpes.fr)
 
 More information:
 - https://benoitcoasne.github.io/ (Coasne’s research group website)

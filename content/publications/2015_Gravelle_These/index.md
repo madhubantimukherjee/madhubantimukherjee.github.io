@@ -3,7 +3,7 @@ title: "Nanofluidics: a theoretical and numerical investigation
 of fluid transport in nanochannels"
 date: 2015-11-17
 publishDate: 2015-11-17
-authors: ["**Simon Gravelle**"]
+authors: ["**Madhubanti Mukherjee**"]
 publication_types: ["7"]
 abstract: "Nanofluidics is the study of fluids confined in structures of nanometric
 dimensions (typically 1 − 100 nm). Fluids confined in these structures exhibit behaviours that are not observed in larger structures, due to a high

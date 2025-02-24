@@ -2,7 +2,7 @@
 title: "Assessing the validity of NMR relaxation rates obtained from coarse-grained simulations of PEG-water mixtures"
 date: 2023-06-16
 publishDate:  2023-06-16
-authors: ["**Simon Gravelle**", "David Beyer", "Mariano Brito", "Alexander Schlaich", "Christian Holm"]
+authors: ["**Madhubanti Mukherjee**", "David Beyer", "Mariano Brito", "Alexander Schlaich", "Christian Holm"]
 publication_types: ["2"]
 abstract: "NMR relaxometry is a powerful and well-established
 experimental approach to characterize dynamic processes in soft matter systems.
