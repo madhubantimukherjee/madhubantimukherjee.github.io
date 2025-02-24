@@ -18,24 +18,25 @@ role: EPFL LCBC Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: LIPhy, Grenoble, France
-    url: https://liphy.univ-grenoble-alpes.fr/
+  - name: EPFL, Switzerland
+    url: https://www.epfl.ch/labs/lcbc/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Computer physicist in soft matter and fluids at interfaces in LIPhy (UGA, CNRS), in Grenoble, France.
+bio: Computational Materials Scientist
 
 # Interests to show in About widget
 interests:
-  - Soft Matter
-  - Fluid at interface
-  - Computer simulations
+  - Density functional theory
+  - Molecular dynamics
+  - Machine learning
+  - Energy materials
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Nanofluidics
-      institution: University of Lyon (France)
-      year: 2015
+    - course: PhD 
+      institution: Indian Institute of Science, Bangalore, Karanataka, India
+      year: 2016 - 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -67,7 +68,7 @@ highlight_name: true # Highlight the author in author lists? (true/false)
 
 ### About me ##
 
-I am a computer physicist in soft matter and fluids at interfaces, working at the LIPhy laboratory in Grenoble, France.
+I am a computational materials scientist with a background in physics
 
 <a href="https://github.com/simongravelle" target="_blank" style="float: right">
   <img src="https://raw.githubusercontent.com/simongravelle/simongravelle.github.io/refs/heads/main/static/img/water-in-polymer.png" alt="Water in polymer - molecular dynamics" width="200">
@@ -75,11 +76,11 @@ I am a computer physicist in soft matter and fluids at interfaces, working at th
 
 <span style="display: block; height: 8px;"></span>
 
-### What I share on <a href="https://github.com/simongravelle" target="_blank" style="text-decoration: none;">GitHub</a> ##
+### What I share on <a href="https://github.com/madhubantimukherjee" target="_blank" style="text-decoration: none;">GitHub</a> ##
 
-  - Input files for molecular simulations
-  - Scripts for preparing and analyzing simulations
-  - Data and scripts from my recent publications
+  - My research interests
+  - Resources I find useful
+  - My publications
 
 <span style="display: block; height: 8px;"></span>
 
