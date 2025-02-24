@@ -4,7 +4,7 @@
 # Academic template
 
 A simple academic template that is easy to deploy on GitHub page, and relatively
-easy to customize using css. You can find the [live](https://madhubantimukherjee.github.io/)
+easy to customize using css. You can find the [live](https://simongravelle.github.io/)
 version, and my resume [here](https://madhubantimukherjee.github.io/files/resume/resume-simon-gravelle.pdf).
 
 ## Automatic update of the publication list
