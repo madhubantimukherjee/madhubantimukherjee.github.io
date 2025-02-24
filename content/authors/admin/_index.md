@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Simon Gravelle
+title: Madhubanti Mukherjee
 
 # Full name (for SEO)
 first_name: Simon
