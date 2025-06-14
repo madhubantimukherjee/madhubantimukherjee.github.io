@@ -1,10 +1,9 @@
 ---
-title: Contact
+layout: default
+title: About Me
+permalink: /
 ---
 
-[Home](index.md) | [About](about.md) | [Updates](updates.md) | [Publications](publications.md) | [Resume](resume.md) | [Contact](contact.md) | [Resources](resources.md)
+# About Me
 
-# Contact
-
-- Email: yourname@example.com  
-- GitHub: [@madhubantimukherjee](https://github.com/madhubantimukherjee)
+Write your about me content here...

@@ -1,9 +1,9 @@
 ---
-title: Updates
+layout: default
+title: About Me
+permalink: /
 ---
 
-[Home](index.md) | [About](about.md) | [Updates](updates.md) | [Publications](publications.md) | [Resume](resume.md) | [Contact](contact.md) | [Resources](resources.md)
+# About Me
 
-# Updates
-
-- June 2025: Started a new project...
+Write your about me content here...

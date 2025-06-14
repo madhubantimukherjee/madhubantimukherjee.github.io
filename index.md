@@ -1,11 +1,9 @@
 ---
-title: Home
+layout: default
+title: About Me
+permalink: /
 ---
 
-[Home](index.md) | [About](about.md) | [Updates](updates.md) | [Publications](publications.md) | [Resume](resume.md) | [Contact](contact.md) | [Resources](resources.md)
+# About Me
 
-# Welcome to My Website
-
-This is the homepage of Madhubanti Mukherjee. I am a Computational Materials Scientist and Physicist.
-
-Check out the sections above to learn more!
+Write your about me content here...

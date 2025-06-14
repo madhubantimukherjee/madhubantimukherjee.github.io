@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="stylesheet" href="/assets/style.css" />
+</head>
+<body>
+  <nav>
+    <ul>
+      <li><a href="/">About Me</a></li>
+      <li><a href="/updates.html">Updates</a></li>
+      <li><a href="/publications.html">Publications</a></li>
+      <li><a href="/resume.html">Resume</a></li>
+      <li><a href="/contact.html">Contact</a></li>
+      <li><a href="/resources.html">Useful Resources</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    {{ content }}
+  </main>
+</body>
+</html>
