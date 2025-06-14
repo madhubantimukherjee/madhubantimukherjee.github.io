@@ -29,13 +29,18 @@ interests:
   - Density functional theory
   - Molecular dynamics
   - Machine learning
-  - Energy materials
+  - Thermoelectrics
+  - Thermal and electronic transport
+  - Polymer dielectrics
+  - Superhard materials
+  - Perovskite solar cell
+  - Molecular electronics
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD 
-      institution: Indian Institute of Science, Bangalore, Karanataka, India
+      institution: Indian Institute of Science, Bangalore, Karnataka, India
       year: 2016 - 2021
 
 # Social/Academic Networking
@@ -51,14 +56,14 @@ social:
       header: true
   - icon: cv
     icon_pack: ai
-    link: files/resume/resume-simon-gravelle.pdf
+    link: files/resume/Madhubanti_Mukherjee_CV_March_2025.pdf
 
 highlight_name: true # Highlight the author in author lists? (true/false)
 ---
 
 ### About me ##
 
-I am a computational materials scientist with a background in physics
+I am a computational materials scientist with a background in Physics
 
 <a href="https://github.com/madhubantimukherjee" target="_blank" style="float: right">
   <img src="https://raw.githubusercontent.com/madhubantimukherjee/madhubantimukherjee.github.io/refs/heads/main/static/img/water-in-polymer.png" alt="Water in polymer - molecular dynamics" width="200">
@@ -69,13 +74,8 @@ I am a computational materials scientist with a background in physics
 ### What I share on <a href="https://github.com/madhubantimukherjee" target="_blank" style="text-decoration: none;">GitHub</a> ##
 
   - My research interests
-  - Resources I find useful
   - My publications
+  - Resources I find useful
 
 <span style="display: block; height: 8px;"></span>
-
-### My primary outreach projects ##
-
-  - <a href="https://github.com/lammpstutorials" target="_blank" style="text-decoration: none;">LAMMPS tutorials</a> for LAMMPS beginners
-  - <a href="https://github.com/mdcourse" target="_blank" style="text-decoration: none;">Guides</a> for implementing molecular simulations from scratch
 
