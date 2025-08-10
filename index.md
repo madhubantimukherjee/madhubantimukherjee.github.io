@@ -1,9 +1,26 @@
 ---
 layout: default
-title: About Me
-permalink: /
+title: "Welcome"
 ---
 
-# About Me
+# Hi, I'm Madhubanti Mukherjee 👋
 
-Write your about me content here...
+Welcome to my personal website!
+
+I am a researcher with interest in designing energy materials.
+
+---
+
+## Quick Links
+
+- [About Me]({{ '/about' | relative_url }})
+- [Updates]({{ '/updates' | relative_url }})
+- [Selected Research]({{ '/selected-research' | relative_url }})
+- [Publications]({{ '/publications' | relative_url }})
+- [Resume]({{ '/resume' | relative_url }})
+- [Contact]({{ '/contact' | relative_url }})
+- [Useful Resources]({{ '/resources' | relative_url }})
+
+---
+
+![My photo]({{ '/assets/Profile.jpeg' | relative_url }})
