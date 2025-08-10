@@ -13,7 +13,7 @@ I am a researcher with interest in designing energy materials.
 
 ## Quick Links
 
-- [About Me]({{ '/about' | relative_url }})
+- [About Me]({{ '/about/' | relative_url }})
 - [Updates]({{ '/updates' | relative_url }})
 - [Selected Research]({{ '/selected-research' | relative_url }})
 - [Publications]({{ '/publications' | relative_url }})
