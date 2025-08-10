@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Welcome"
+permalink: /
 ---
 
 # Hi, I'm Madhubanti Mukherjee 👋
